@@ -9,14 +9,8 @@
   "dotenv": "^17.2.3",
   "express-session": "^1.18.2",
   "mongodb-memory-server": "^10.4.1",
-  "mongoose": "^9.0.1"
- },
- "devDependencies": {
-  "@types/commander": "^2.12.0",
-  "@types/dotenv": "^6.1.1",
-  "@types/node": "^24.10.2",
-  "@types/react": "^19.2.7",
-  "typescript": "^5.9.3"
+  "mongoose": "^9.0.1",
+  "express": "^4.18.2"
  }
 }
 
