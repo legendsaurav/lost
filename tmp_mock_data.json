@@ -1,0 +1,175 @@
+{
+  "departments": [
+    {
+      "id": "dept-biosci",
+      "name": "Bioscience and Biotechnology",
+      "branches": [
+        "branch_1761308112853_lc91k",
+        "branch_1761313683480_tw246",
+        "branch_1761313683480_di3jw"
+      ]
+    },
+    {
+      "id": "dept-cse",
+      "name": "Computer Science and Engineering",
+      "branches": []
+    },
+    {
+      "id": "dept-ece",
+      "name": "ECE DEPT",
+      "branches": []
+    },
+    {
+      "id": "dept-ee",
+      "name": "Electrical Engineering",
+      "branches": []
+    },
+    {
+      "id": "dept-ise",
+      "name": "Industrial and Systems Engineering",
+      "branches": []
+    },
+    {
+      "id": "dept-materials",
+      "name": "Materials Science Centre",
+      "branches": []
+    },
+    {
+      "id": "dept-nano",
+      "name": "Nano Science and Technology",
+      "branches": []
+    },
+    {
+      "id": "dept-physics",
+      "name": "Physics",
+      "branches": [
+        "branch-theory"
+      ]
+    },
+    {
+      "id": "dept-subir-chowdhury",
+      "name": "Subir Chowdhury School of Quality and Reliability",
+      "branches": []
+    }
+  ],
+  "branches": {
+    "branch_1761313683480_tw246": {
+      "id": "branch_1761313683480_tw246",
+      "name": "Neuro-epigenetics & Autism Spectrum Disorder"
+    },
+    "branch_1761313683480_di3jw": {
+      "id": "branch_1761313683480_di3jw",
+      "name": "RecQ Helicases & DNA Repair"
+    },
+    
+    "branch-systems": {
+      "id": "branch-systems",
+      "name": "Systems"
+    },
+    "branch-theory": {
+      "id": "branch-theory",
+      "name": "Theoretical Physics"
+    }
+  },
+  "professors": {
+    "68fb8393319ec2413c0e2224": {
+      "email": "abhijit.das@iitkgp.ac.in",
+      "branch": "branch_1761313683480_tw246",
+      "companies": [
+        "Biogen",
+        "Genentech",
+        "Illumina"
+      ],
+      "degree": "Ph.D., Tata Institute of Fundamental Research",
+      "description": "Our complex behavioural traits are the end result of a very complex gene regulatory system streamlining developmental and behavioural events of our nervous system. We use fruit fly (Drosophila) model system to study how change in chromatin architecture is mechanistically associated with developmental and behavioural principles and how their mis-regulations lead to disease pathogenesis.",
+      "links": {
+        "awards": "#",
+        "webpage": "#",
+        "bio": "#"
+      },
+      "name": "Abhijit Das",
+      "photo": "https://media.licdn.com/dms/image/v2/C5603AQH1-0X8wfJV9A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1614963859712?e=2147483647&v=beta&t=7LhjQKGJ3FqMXHKr2VrX_5-BqYJvY7qCrfQFZN1A2eI",
+      "position": "Assistant Professor Grade-I",
+      "projects": [
+        "Spontaneous neuronal activity induced transcriptional regulation mediated by Mef2 in the origin of Autism Spectrum Disorder (DBT)",
+        ""
+      ],
+      "research": [
+        "Neurodegenerative disorders",
+        "Neuro-epigenetics",
+        "Autism Spectrum Disorder"
+      ],
+      "id": "68fb8393319ec2413c0e2224"
+    },
+    "68fb8393319ec2413c0e2225": {
+      "email": "agneyo@iitkgp.ac.in",
+      "branch": "branch_1761313683480_di3jw",
+      "companies": [
+        "Illumina",
+        "Thermo Fisher Scientific"
+      ],
+      "degree": "Ph.D.",
+      "description": "Research focuses on structural and functional characterization of human RecQ1 helicase and understanding DNA unwinding mechanisms using fluorescence spectroscopy. Studies RecQ helicases from L.donovani parasite for DNA repair processes.",
+      "links": {
+        "awards": "#",
+        "webpage": "#",
+        "bio": "#"
+      },
+      "name": "Agneyo Ganguly",
+      "photo": "https://media.licdn.com/dms/image/v2/C5103AQGJvM-9QYvKOg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516876131766?e=2147483647&v=beta&t=xLjP5WMdKvNhXQv0rYpzrKJHxN-Q_nLVYV9yvdTq8Gs",
+      "position": "Associate Professor",
+      "projects": [
+        "Structural and functional studies on RecQ helicases"
+      ],
+      "research": [
+        "Molecular Biology",
+        "Biochemistry"
+      ],
+      "id": "68fb8393319ec2413c0e2225"
+    }
+  },
+  "news": [
+    {
+      "_id": "68fbd29d319ec2413c0e222d",
+      "link": "https://www.nbcnews.com/",
+      "__v": 0,
+      "date": "2025-10-24T19:25:16.964Z",
+      "title": "NBC News - Breaking Headlines and Video Reports on World, U.S. ..."
+    },
+    {
+      "_id": "68fbd29d319ec2413c0e222e",
+      "link": "https://news.google.com/",
+      "__v": 0,
+      "date": "2025-10-24T19:25:16.964Z",
+      "title": "Google News"
+    },
+    {
+      "_id": "68fbd29d319ec2413c0e222f",
+      "link": "https://www.cnn.com/",
+      "__v": 0,
+      "date": "2025-10-24T19:25:16.964Z",
+      "title": "CNN: Breaking News, Latest News and Videos"
+    },
+    {
+      "_id": "68fbd29d319ec2413c0e2230",
+      "link": "https://www.ginniemae.gov/pages/latest_news.aspx",
+      "__v": 0,
+      "date": "2025-10-24T19:25:16.964Z",
+      "title": "Latest News"
+    },
+    {
+      "_id": "68fbd29d319ec2413c0e2231",
+      "link": "https://abcnews.go.com/",
+      "__v": 0,
+      "date": "2025-10-24T19:25:16.964Z",
+      "title": "ABC News - Breaking News, Latest News and Videos"
+    },
+    {
+      "_id": "68fbd29d319ec2413c0e2232",
+      "link": "https://www.foxnews.com/",
+      "__v": 0,
+      "date": "2025-10-24T19:25:16.964Z",
+      "title": "Fox News - Breaking News Updates | Latest News Headlines ..."
+    }
+  ]
+}

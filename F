@@ -1,0 +1,267 @@
+
+ Amreesh Chandra
+Debamalya Banerjee
+Dipak Kumar Goswami
+Jyotirmoy Bhattacharya
+Pintu Patra
+Poornachandra Sekhar Burada
+Prasanta Kumar Datta
+Saikat Das
+Samit Kumar Ray
+Samudra Roy
+Shivakiran B N Bhaktha
+Sonjoy Majumder
+Tamoghna Das
+Tirtha Sankar Ray
+
+ Amreesh ChandraFocuses on materials science, especially alternative energy storage with sodium-ion and supercapacitor technologies, nanostructure materials for batteries, and scalable solutions for electric vehicles
+ .Debamalya BanerjeeSpecializes in graphene electronics, AC/DC transport in semiconductors, piezoelectric materials, and novel sensor devices for soil, electrical, and electrochemical applications
+ .Dipak Kumar GoswamiResearches surfaces and interfaces, nanoscale science, organic electronic devices, and healthcare sensors, with notable work in organic transistors, supercapacitors, and bio-waste derived materials for energy storage
+ .Jyotirmoy BhattacharyaTheoretical physics, specializing in quantum field theory, string theory, and gravity. Significant contributions to hydrodynamics from black branes, entanglement entropy, and fluid dynamics in QFTs
+ .Pintu PatraWorks on active matter and theoretical biophysics, collective dynamics of biological systems, and the expansion and motility of bacterial colonies as a model for living systems
+ .Poornachandra Sekhar BuradaNon-equilibrium statistical mechanics, soft matter, and fluid mechanics, focusing on Brownian motion in confined environments, chemotaxis, dynamics of self-propelled bodies, protein response to radiation, and computational physics
+ .Prasanta Kumar DattaStudies laser physics, nonlinear optics, ultrafast science, and photonic materials with applications in mid-IR generation, quantum dots for solar cells, and ultrafast optical spectroscopy
+ .Saikat DasEngages in experimental condensed matter physics, focusing on scanning probe microscopy, materials and microwave devices, low-temperature physics, and reliability engineering of electronic materials including Li-ion batteries
+ .Samit Kumar RayExperimental condensed matter physics and nanoscience: semiconductor nanostructures, epitaxial quantum structures, nanophotonics, floating-gate flash memory, quantum dot detectors, and strained silicon for new device physics
+ .Samudra RoyResearches nonlinear photonics, photonic cavity dynamics, spatial and temporal dissipative solitons, graphene-based photonic metamaterials, and waveguide arrays for optical applications
+ .Shivakiran B N BhakthaInvestigates random lasers, optofluidics, photonic crystals, microresonators, glass photonics, and glass-ceramic phenomena, especially light-matter manipulation in engineered disordered systems
+ .Sonjoy MajumderAtomic and molecular physics, quantum optics, ultracold atoms, quantum computing, light-matter interactions, and many-body theory in cold atomic systems
+ .Tamoghna DasQuantum information theory, quantum optics, foundations of quantum mechanics, and quantum cryptography, including quantum correlations in communication networks and machine learning applications in quantum theory
+ .Tirtha Sankar RayHigh-energy physics, astroparticle physics, and beyond the Standard Model phenomenology, focusing on composite Higgs models, dark matter models, and radiative corrections in particle theory
+ .
+
+ Professor Name               |  Email Address                
+-----------------------------+-------------------------------
+Amreesh Chandra              |  achandra@phy.iitkgp.ac.in    
+Debamalya Banerjee           |  debamalya@phy.iitkgp.ac.in   
+Dipak Kumar Goswami          |  dipak@phy.iitkgp.ac.in       
+Jyotirmoy Bhattacharya       |  jyoti@phy.iitkgp.ac.in       
+Pintu Patra                  |  pintupatra@phy.iitkgp.ac.in  
+Poornachandra Sekhar Burada  |  psburada@phy.iitkgp.ac.in    
+Prasanta Kumar Datta         |  pkdatta@phy.iitkgp.ac.in     
+Saikat Das                   |  saikat@phy.iitkgp.ac.in      
+Samit Kumar Ray              |  physkr@phy.iitkgp.ac.in      
+Samudra Roy                  |  samudra.roy@phy.iitkgp.ac.in 
+Shivakiran B N Bhaktha       |  kiranbhaktha@phy.iitkgp.ac.in
+Sonjoy Majumder              |  sonjoym@phy.iitkgp.ac.in     
+Tamoghna Das                 |  tamoghna@phy.iitkgp.ac.in    
+Tirtha Sankar Ray            |  tsray@phy.iitkgp.ac.in
+
+ Amreesh Chandra
+
+Research Areas
+Hiearchical Nanostructures for Devices
+3D printing of energy devices
+Sodium ion batteries and supercapacitors
+Carbon footprint of Energy Devices
+Alternate Chemistry Cells and Batteries
+
+
+Principal Investigator
+Battery regeneration and carbon footprint generation BATTERY LIFE 2
+Characterization of Materials and Energy Devices Various internal users of the Institute
+Characterization of Materials and Energy Devices (external) Various Government and Non-Government Organisations
+Designing, Development and Distribution of Na-ion Cells UNEVERSE MOBILITY PRIVATE LIMITED
+Health monitoring of EVs Integration of AI enabled chipsets and smart BMS for ensuring high safety, longevity and charging cycles IIT KHARAGPUR AI4ICPS I HUB FOUNDATION
+State of Art Battery Testing Tata Power Delhi Distribution- Tata Power DDL
+
+ Debamalya Banerjee
+
+
+Research Areas
+Energy materials
+Electron transport
+Engineered oxide & semiconductor heterostructures
+
+
+Principal Investigator
+A zinc chalcogenide based optoelectronic sensor with waste heat energy harvesting capability Science and Engineering Research Board (SERB)
+A zinc chalcogenide based optoelectronic sensor with waste heat energy harvesting capability Anusandhan National Research Foundation (ANRF)
+Consultation for analysis of electron paramagnetic resonance (EPR) results MYLAN LABORATORIES LIMITED
+
+ Dipak Kumar Goswami
+
+
+Research Areas
+Organic Electronic Devices
+Biomedical devices, Flexible electronics
+Organic thin film growth
+Technologies for Affordable Healthcare
+
+
+Principal Investigator
+Infrastructure for Sensor Fabrication Ministry of Electronics and Information Technology
+Large-Scale Fabrication of OFET-Based Temperature and Humidity Sensors for Smart Spirometer Integration Ministry of Electronics and Information Technology
+Nanotechnology for sensors in healthcare, intelligent environmental monitoring and diagnostics (NANO-SHIELD) Ministry of Electronics and Information Technology
+OptiBreath-_Fabrication of Compact CPAP-BiPAP System with Automatic Oxygen Enrichment Technology Ministry of Electronics and Information Technology
+
+ Jyotirmoy Bhattacharya
+
+Research Areas
+Quantum field theory
+Gravity
+String Theory
+Relativistic hydrodynamics
+Quantum entanglement in QFTs
+
+
+Principal Investigator
+Soft Theorems in AdS Council of Scientific and Industrial Research
+
+ Pintu Patra
+
+
+Research Areas
+Active Matter
+Statistical Physics
+Image and Data Analysis
+
+
+Principal Investigator
+Investigating the role of shape and heterogeneity in active matter using agent-based simulations. SRIC, IIT KHARAGPUR
+
+ Poornachandra Sekhar Burada
+
+Research Areas
+Soft Matter Physics
+Non-equilibrium Statistical Mechanics
+Low-Reynolds number Hydrodynamics
+Computational Physics
+
+
+
+Principal Investigator
+Separation of active particles in microfluidic channels Science and Engineering Research Board (SERB)
+
+ Prasanta Kumar Datta
+
+Research Areas
+Laser Physics
+Nonlinear Optics
+Ultrafast Optical Spectroscopy
+
+
+Principal Investigator
+Development of Next Generation Nanostructured 2D Material based Uncooled Mid-Infrared Detectors Scheme for Promotion of Academic and Research Collaboration (SPARC), Apex Committee of SPARC, Ministry of Education
+Investigation on the Fundamental Mechanisms behind the Solar Energy Conversion and Storage through Computational Materials Modelling Using Bulk and 2 Dimensional Solids Science and Engineering Research Board (SERB)
+Investigation on the Fundamental Mechanisms behind the Solar Energy Conversion and Storage through Computational Materials Modelling Using Bulk and 2 Dimensional Solids Anusandhan National Research Foundation (ANRF)
+SPARC Workshop Various Government and Non-Government Organisations
+Synthesis and Carrier dynamics of lead free perovskite for increased solar cell efficiency and stability Scheme for Promotion of Academic and Research Collaboration (SPARC), Apex Committee of SPARC, Ministry of Education
+
+ Saikat Das
+
+Research Areas
+Quantum Materials and Applications
+Experimental Condensed Matter Physics
+Thin Film Heterostructure
+Magnetism and Spintronics
+
+
+
+Principal Investigator
+Aurivillius Phase Oxides for Efficient Spin Current Generation Science and Engineering Research Board (SERB)
+Aurivillius Phase Oxides for Efficient Spin Current Generation Anusandhan National Research Foundation (ANRF)
+Development of low cost ferromagnetic resonance spectroscopy setup SRIC, IIT KHARAGPUR
+
+ Samit Kumar Ray
+
+Research Areas
+Two dimensional materials
+NanoPhotonics
+Experimental Condensed Matter Physics
+Solar Photovoltaics
+Low dimensional semiconductor structures
+
+
+
+Principal Investigator
+Deasign and Fabrication of Piezo-phototronic and Tribotronic Devices using Band-engineered Two-dimensional Transition Metal Dichalcogenide Alloys for Self-powered and Mechanical Energy Harvesting Applications Science and Engineering Research Board (SERB)
+Design and Fabrication of Piezo-phototronic and Tribotronic Devices using Band-engineered Two-dimensional Transition Metal Dichalcogenide Alloys for Self-powered and Mechanical Energy Harvesting Applications Anusandhan National Research Foundation (ANRF)
+Emergent Phenomena in 2D Heterostructures Department of Science and Technology (DST)
+Technology Vertical - Quantum Materials and Devices Department of Science and Technology (DST)
+
+ Samudra Roy
+
+Research Areas
+Nonlinear Photonics
+Nonlinear Cavity Dynamics, CavitySoliton
+Airy pulse dynamics
+Graphene Optics
+Waveguide Array
+
+
+
+Principal Investigator
+Stabilization and interaction dynamics of vortex solitons in higher dimensional multicore fibers Science and Engineering Research Board (SERB)
+Stabilization and interaction dynamics of vortex solitons in higher dimensional multicore fibers Anusandhan National Research Foundation (ANRF)
+Vortex soliton in chiral random laser Science and Engineering Research Board (SERB)
+
+ Shivakiran B N Bhaktha
+
+Research Areas
+Random Lasers
+Optofluidics
+Photonic Crystals
+Microresonators
+Glass and glass-ceramics
+
+
+Principal Investigator
+Development of Portable Photonic Crystal Bloch Surface Wave Sensors for the Detection of Dithiocarbamate Pesticides in Agri-Food Systems Department of Science and Technology (DST)
+Investigating the Potential of Cavity Optomechanics in Microwave Oscillation and Frequency Comb Generation Scheme for Transformational and Advanced Research in Sciences (STARS), Ministry of Education (MoE)
+
+ Sonjoy Majumder
+
+Research Areas
+Quantum Information Theory
+Relativistic many-electron theory
+Physics of ultra cold atom
+Quantum Computing and Machine Learning
+Quantum Optics: Light-matter interaction
+
+
+Principal Investigator
+Mathematical formulation and study of droplet dynamics in attractive non-dipolar and dipolar BEC Science and Engineering Research Board (SERB)
+Mathematical formulation and study of droplet dynamics in attractive non-dipolar and dipolar BEC Anusandhan National Research Foundation (ANRF)
+
+ Tamoghna Das
+
+Research Areas
+Quantum Information Theory
+Quantum Optics
+Foundations of Quantum Mechanics
+Quantum and Post-quantum Cryptography
+
+
+Principal Investigator
+Theoretical development in the direction of establishing quantum communication networks Sponsored Research and Industrial Consultancy (SRIC)
+
+ Tirtha Sankar Ray
+
+
+Research Areas
+Particle Physics
+Beyond Standard Model Physics
+Electroweak Symmetry Breaking
+Astroparticle Physics
+
+
+Principal Investigator
+Exploring the Higgs Shape at LHC and Beyond Science and Engineering Research Board (SERB)
+
+ Name                         |  Category                     |  Official IIT KGP Profile Link                                 
+-----------------------------+-------------------------------+----------------------------------------------------------------
+Amreesh Chandra              |  Professor                    |  https://www.iitkgp.ac.in/department/PH/faculty/ph-achandra    
+Debamalya Banerjee           |  Associate Professor          |  https://www.iitkgp.ac.in/department/PH/faculty/ph-debamalya   
+Dipak Kumar Goswami          |  Professor                    |  https://www.iitkgp.ac.in/department/PH/faculty/ph-dipak       
+Jyotirmoy Bhattacharya       |  Assistant Professor Grade-I  |  https://www.iitkgp.ac.in/department/PH/faculty/ph-jyoti       
+Pintu Patra                  |  Assistant Professor Grade-I  |  https://www.iitkgp.ac.in/department/PH/faculty/ph-pintupatra  
+Poornachandra Sekhar Burada  |  Associate Professor          |  https://www.iitkgp.ac.in/department/PH/faculty/ph-psburada    
+Prasanta Kumar Datta         |  Professor                    |  https://www.iitkgp.ac.in/department/PH/faculty/ph-pkdatta     
+Saikat Das                   |  Assistant Professor          |  https://www.iitkgp.ac.in/assets/bio_sketch/MjIwMDk=.pdf       
+Samit Kumar Ray              |  Professor, Chair Professor   |  https://www.iitkgp.ac.in/department/PH/faculty/ph-physkr      
+Samudra Roy                  |  Associate Professor          |  https://www.iitkgp.ac.in/department/PH/faculty/ph-samudra.roy 
+Shivakiran B N Bhaktha       |  Associate Professor          |  https://www.iitkgp.ac.in/department/PH/faculty/ph-kiranbhaktha
+Sonjoy Majumder              |  Professor                    |  https://www.iitkgp.ac.in/department/PH/faculty/ph-sonjoym     
+Tamoghna Das                 |  Assistant Professor          |  https://www.iitkgp.ac.in/department/PH/faculty/ph-tamoghna    
+Tirtha Sankar Ray            |  Professor                    |  https://www.iitkgp.ac.in/department/PH/faculty/ph-tsray

@@ -1,0 +1,247 @@
+{
+	"departments": [
+		{
+			"id": "dept-biosci",
+			"name": "Bioscience and Biotechnology",
+			"branches": [
+				"branch-neuro-epigenetics",
+				"branch-dna-helicases",
+				"branch-structural-enzymology",
+				"branch-molecular-cell-regulation",
+				"branch-protein-biochemistry",
+				"branch-biophysics",
+				"branch-chemical-biology",
+				"branch-environmental-microbiology",
+				"branch-green-bioprocessing",
+				"branch-computational-structural-biology",
+				"branch-computational-systems-bio",
+				"branch-plant-microbial-biotech",
+				"branch-cell-signaling",
+				"branch-immunology",
+				"branch-structural-cellular-microbio",
+				"branch-bioprocess-monitoring"
+			]
+		},
+		{
+			"id": "dept-cse",
+			"name": "Computer Science and Engineering",
+			"branches": [
+				"branch-ethical-ai",
+				"branch-computer-vision",
+				"branch-llms-fair-ir",
+				"branch-formal-vlsi",
+				"branch-social-ubiquitous",
+				"branch-biochips-modeling",
+				"branch-hci",
+				"branch-hardware-security",
+				"branch-cse-other"
+			]
+		},
+		{
+			"id": "dept-ece",
+			"name": "ECE DEPT",
+			"branches": []
+		},
+		{
+			"id": "dept-ee",
+			"name": "Electrical Engineering",
+			"branches": []
+		},
+		{
+			"id": "dept-ise",
+			"name": "Industrial and Systems Engineering",
+			"branches": []
+		},
+		{
+			"id": "dept-materials",
+			"name": "Materials Science Centre",
+			"branches": []
+		},
+		{
+			"id": "dept-nano",
+			"name": "Nano Science and Technology",
+			"branches": []
+		},
+		{
+			"id": "dept-physics",
+			"name": "Physics",
+			"branches": ["branch-theory"]
+		},
+		{
+			"id": "dept-subir-chowdhury",
+			"name": "Subir Chowdhury School of Quality and Reliability",
+			"branches": []
+		}
+	],
+  "branches": {
+    
+  },
+  "professors": {
+  "68fc77f7319ec2413c0e3001": {
+    "name": "Amit Patra",
+    "photo": "#",
+    "email": "amit@iitkgp.ac.in",
+    "position": "Professor",
+    "degree": "Ph.D., IIT Kharagpur",
+    "department": "Electrical Engineering",
+    "projects": ["National Digital Library of India", "Embedded control systems"],
+    "research": ["Power management circuits", "Mixed-signal VLSI", "Embedded systems"],
+    "companies": ["Texas Instruments", "Infineon", "Maxim Integrated", "ISRO", "DRDO"],
+    "links": {
+      "bio": "https://www.iitkgp.ac.in/department/EE/faculty/ee-amit"
+    },
+    "description": "Research focuses on low-power mixed signal circuits and embedded systems for automation."
+  },
+  "68fc77f7319ec2413c0e3002": {
+    "name": "Arijit Mondal",
+    "photo": "#",
+    "email": "arijit@ee.iitkgp.ac.in",
+    "position": "Assistant Professor II",
+    "degree": "Ph.D. (unspecified)",
+    "department": "Electrical Engineering",
+    "projects": ["VLSI architecture optimization", "Quantum circuit design"],
+    "research": ["VLSI design", "Error correction", "Quantum computing"],
+    "companies": ["Intel", "AMD", "Qualcomm", "Broadcom", "Micron"],
+    "links": {
+      "bio": "https://www.iitkgp.ac.in/department/EE/faculty/ee-arijit"
+    },
+    "description": "Focuses on efficient hardware architectures and quantum circuit optimization."
+  },
+  "68fc77f7319ec2413c0e3003": {
+    "name": "Arun Ghosh",
+    "photo": "#",
+    "email": "arun@iitkgp.ac.in",
+    "position": "Associate Professor",
+    "degree": "Ph.D., IIT Kharagpur",
+    "department": "Electrical Engineering",
+    "projects": ["Advanced MIMO control", "Distributed systems analysis"],
+    "research": ["Multivariable control", "Signal processing", "System optimization"],
+    "companies": ["Siemens", "ABB", "Honeywell", "GE"],
+    "links": {
+      "bio": "https://www.iitkgp.ac.in/department/EE/faculty/ee-arun"
+    },
+    "description": "Research in multirate and distributed control systems applied to automation."
+  },
+  "68fc77f7319ec2413c0e3004": {
+    "name": "Ashis Maity",
+    "photo": "#",
+    "email": "ashis@iitkgp.ac.in",
+    "position": "Assistant Professor I",
+    "degree": "Ph.D., IIT Kharagpur",
+    "department": "Electrical Engineering",
+    "projects": ["Analog IC design", "Power-efficient interfaces"],
+    "research": ["Power management ICs", "Analog mixed-signal design"],
+    "companies": ["Analog Devices", "Maxim", "Cypress", "TI"],
+    "links": {
+      "bio": "https://www.iitkgp.ac.in/department/EE/faculty/ee-ashis"
+    },
+    "description": "Works on portable analog mixed-signal design focusing on low-power ICs."
+  },
+  "68fc77f7319ec2413c0e3005": {
+    "name": "Ashish Ranjan Hota",
+    "photo": "#",
+    "email": "ahota@iitkgp.ac.in",
+    "position": "Assistant Professor I",
+    "degree": "Ph.D., Purdue University",
+    "department": "Electrical Engineering",
+    "projects": ["Hybrid microgrid stability", "Cybersecure grid control"],
+    "research": ["Power electronics", "Control systems", "Renewable integration"],
+    "companies": ["Schneider Electric", "GE Renewable Energy", "ABB", "Siemens"],
+    "links": {
+      "bio": "https://www.iitkgp.ac.in/department/EE/faculty/ee-ahota"
+    },
+    "description": "Power electronics-based control design for renewable and microgrid systems."
+  },
+  "68fc77f7319ec2413c0e3006": {
+    "name": "Ashok Kumar Pradhan",
+    "photo": "#",
+    "email": "akpradhan@iitkgp.ernet.in",
+    "position": "Professor",
+    "degree": "Ph.D., Sambalpur University",
+    "department": "Electrical Engineering",
+    "projects": ["Power protection", "Fault diagnosis in power grids"],
+    "research": ["Power system monitoring", "Fault detection", "Grid protection"],
+    "companies": ["ABB", "Toshiba", "Schneider Electric", "GE"],
+    "links": {
+      "bio": "https://sites.google.com/view/prof-ashok-kumar-pradhan"
+    },
+    "description": "Focuses on power system protection, grid fault detection, and automation."
+  },
+  "68fc77f7319ec2413c0e3007": {
+    "name": "Atreyee Kundu",
+    "photo": "#",
+    "email": "atreyee@iitkgp.ac.in",
+    "position": "Assistant Professor I",
+    "degree": "Ph.D., IIT Bombay",
+    "department": "Electrical Engineering",
+    "projects": ["Switched systems control", "Hybrid optimal control"],
+    "research": ["Hybrid systems", "Networked control", "Optimal control"],
+    "companies": ["Honeywell", "Siemens", "Rockwell Automation"],
+    "links": {
+      "bio": "https://www.iitkgp.ac.in/department/EE/faculty/ee-atreyee"
+    },
+    "description": "Studies hybrid and optimal control systems in robotics and automation."
+  },
+  "68fc77f7319ec2413c0e3008": {
+    "name": "Aurobinda Routray",
+    "photo": "#",
+    "email": "Unavailable",
+    "position": "Professor",
+    "degree": "Ph.D., Sambalpur University",
+    "department": "Electrical Engineering",
+    "projects": ["Signal diagnostics", "Machine prognostics"],
+    "research": ["Signal processing", "Fault detection", "Machine learning"],
+    "companies": ["Analog Devices", "Keysight", "Qualcomm", "TI"],
+    "links": {
+      "bio": "https://www.iitkgp.ac.in/department/EE/faculty/ee-aurobinda"
+    },
+    "description": "Focuses on signal diagnostics and predictive systems for industrial applications."
+  },
+  "68fc77f7319ec2413c0e3009": {
+    "name": "Avishek Chatterjee",
+    "photo": "#",
+    "email": "Unavailable",
+    "position": "Assistant Professor",
+    "degree": "Ph.D. (unspecified)",
+    "department": "Electrical Engineering",
+    "projects": ["Computational imaging research"],
+    "research": ["Computer vision", "AI-based imaging", "Deep learning"],
+    "companies": ["NVIDIA", "Adobe", "Google Research", "Qualcomm"],
+    "links": {
+      "bio": "#"
+    },
+    "description": "Active in AI-driven computational imaging and visual learning methods."
+  },
+  "68fc77f7319ec2413c0e3010": {
+    "name": "Bhargav Jha",
+    "photo": "#",
+    "email": "Unavailable",
+    "position": "Assistant Professor",
+    "degree": "Ph.D. (unspecified)",
+    "department": "Electrical Engineering",
+    "projects": ["Power converter optimization"],
+    "research": ["Control systems", "Power electronics"],
+    "companies": ["ABB", "Delta", "Siemens", "Mitsubishi Electric"],
+    "links": {
+      "bio": "#"
+    },
+    "description": "Research on robust and high-efficiency power converter systems."
+  },
+  "68fc77f7319ec2413c0e3011": {
+    "name": "Debasprasad Kastha",
+    "photo": "#",
+    "email": "Unavailable",
+    "position": "Professor",
+    "degree": "Ph.D. (unspecified)",
+    "department": "Electrical Engineering",
+    "projects": ["Electric drive system design", "EV motor control"],
+    "research": ["Electrical drives", "Energy conversion", "Control engineering"],
+    "companies": ["Tata Motors", "Siemens", "Bosch", "ABB", "GE"],
+    "links": {
+      "bio": "#"
+    },
+    "description": "Specializes in high-performance electric drives and power conversion."
+  }
+}
+
+}
